@@ -1,4 +1,4 @@
-# @mozillaCH Content Queue
+# @MozillaReps Content Queue
 ## The concept
 This repository serves as a curation tool for the [@MozillaReps](https://twitter.com/MozillaReps) Twitter account. Each issue represents a Tweet or Retweet on that account. The issue gets validated by a service, if it is tweetable. If it is deemed ready and the curators of the Twitter account accept the content it will eventually be tweeted. This allows any user with a GitHub account to suggest content for the Twitter account while still retaining control over what is actually tweeted. Further it simplifies letting multiple users tweet from a single account.
 
