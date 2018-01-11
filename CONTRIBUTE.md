@@ -40,4 +40,4 @@ Curators are members of the Reps Council and Peers and moderate tweet content in
 Curators should not move issues with tweet content they created through the board. Curators should self-assign themselves to an issue if they are handling its movements through a board and are coaching the contributor that is authoring a tweet.
 
 #### Proof reading
-Curators that feel confident in English orthography and grammar should proof-read tweets pending in the "Proofread" column and move them to the "To Tweet" column when tweet content is error-free and they have not authored the content themselves.
+Curators that feel confident in English orthography and grammar should proof-read tweets pending in the "Ideas" column and move them to the "To Tweet" column when tweet content is error-free and they have not authored the content themselves.
